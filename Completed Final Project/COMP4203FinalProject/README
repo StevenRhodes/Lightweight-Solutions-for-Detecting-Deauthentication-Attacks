@@ -1,0 +1,19 @@
+COMP 4203 Course Project
+
+Authors:
+	i) Matthew Nitschke
+	ii) Steven Rhodes
+	
+Folder Contents:
+	i)COMP 4203 Final Project (PDF of report)
+	ii)detection.py (The detection program)
+	
+
+Note: If you have a Wireless adapter with Monitor mode capabilites then you can follow these steps
+		to test the code:
+		
+		1)Switch your adapter into Monitor mode. (See "Methodology & Algorithm" section in paper for steps)
+		2)Run "python detection.py" to start the detection program
+			a) In "detection.py", change the filter MAC address to the appropriate MAC address (e.g., your access point)
+		3)Perform "Deauthentication" attack. (See "Deauthentication Attack" section in paper for commands to do this)
+			
